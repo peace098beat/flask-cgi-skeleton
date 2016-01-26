@@ -1,0 +1,2 @@
+# Flaskをcgiで使う
+sakuraレンタルサーバーでFlaskアプリをcgi使うためのテンプレート
